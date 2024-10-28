@@ -7,7 +7,6 @@ Our group member:
 3. Nguyễn Tấn Phúc - Student1575540
 4. Lâm Nhật Minh - Student1575501
 
-## Show git
 1.Documents reports:
 2. Data test:https://github.com/anhquoc67/Product_Fan/tree/main/src/json
 3. Our project demonstration video:
