@@ -25,6 +25,7 @@ http://localhost:3000
 ## Acknowledgments
 . Special thanks to all contributors, instructor and group members who made this project possible.
 . Special gratitude for FPT Aptech Academy and eProject who given us the chance to involve in a meaningful and realistic project.
+
 ## Available Scripts
 
 In the project directory, you can run:
