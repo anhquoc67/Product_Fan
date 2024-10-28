@@ -9,7 +9,7 @@ Our group member:
 
 1.Documents reports:
 2. Data test:https://github.com/anhquoc67/Product_Fan/tree/main/src/json
-3. Our project demonstration video:
+3. Our project demonstration video:https://youtu.be/oFd1qcUc-bY
 4.To run website, simply click on the following link:https://anhquoc67.github.io/Product_Fan/
 
 ## Clone the repository
