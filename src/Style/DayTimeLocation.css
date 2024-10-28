@@ -1,0 +1,30 @@
+/* DayTimeLocation.css */
+
+.scrolling-container {
+    overflow: hidden; /* Hide overflow */
+    width: 100%; /* Full width of the screen */
+    white-space: nowrap; /* Prevent line breaks */
+}
+
+.scrolling-content {
+    display: inline-block; /* Allows horizontal scrolling */
+    animation: scroll-right-left 10s linear infinite; /* Adjust duration for speed */
+}
+
+.info-row {
+    display: flex; /* Use flexbox to align items horizontally */
+    align-items: right; /* Center items vertically */
+}
+
+.location {
+    margin-left: 20px; /* Add some space between date/time and location */
+}
+
+@keyframes scroll-right-left {
+    from {
+        transform: translateX(100%); /* Start from the right edge */
+    }
+    to {
+        transform: translateX(-100%); /* Move to the left edge */
+    }
+}

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Egant Ceiling Fan",
+        "price": 99.99,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152036/logo4_fe6g3v.webp",
+        "color": "White",
+        "brand": "Brand A",
+        "description": "This stylish ceiling fan is designed to enhance the elegance of your room. With a quiet motor and a sleek white finish, it's perfect for any modern home and see more."
+    },
+    {
+        "name": "Mon Table Fan",
+        "price": 49.99,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152031/logo9_sk50ht.webp",
+        "color": "Black",
+        "brand": "Brand B",
+        "description": "A compact and modern table fan that provides efficient cooling with its powerful airflow. Ideal for desks and small spaces, it blends perfectly with contemporary décor."
+    },
+    {
+        "name": "Vinta Wall Fan",
+        "price": 75.50,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151948/pe6_xgbqli.webp",
+        "color": "Bronze",
+        "brand": "Brand C",
+        "description": "Bring a touch of nostalgia to your space with this vintage wall fan. Its bronze finish and retro design make it a unique addition to any room and see more."
+    },
+    {
+        "name": "Eleg Ceiling Fan",
+        "price": 99.99,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151949/pe5_cfrbb4.webp",
+        "color": "White",
+        "brand": "Brand A",
+        "description": "This stylish ceiling fan is designed to enhance the elegance of your room. With a quiet motor and a sleek white finish, it's perfect for any modern home and see more."
+    },
+    {
+        "name": "Mode Table Fan",
+        "price": 49.99,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152023/logo14_zanwgk.webp",
+        "color": "Black",
+        "brand": "Brand B",
+        "description": "A compact and modern table fan that provides efficient cooling with its powerful airflow. Ideal for desks and small spaces, it blends perfectly with contemporary décor."
+    },
+    {
+        "name": "Vinge Wall Fan",
+        "price": 75.50,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152033/logo7_c3n7nr.webp",
+        "color": "Bronze",
+        "brand": "Brand C",
+        "description": "Bring a touch of nostalgia to your space with this vintage wall fan. Its bronze finish and retro design make it a unique addition to any room and see more."
+    },
+    {
+        "name": "Elent Ceiling Fan",
+        "price": 99.99,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152016/logo22_lquujz.webp",
+        "color": "White",
+        "brand": "Brand A",
+        "description": "This stylish ceiling fan is designed to enhance the elegance of your room. With a quiet motor and a sleek white finish, it's perfect for any modern home and see more."
+    },
+    {
+        "name": "Moen Table Fan",
+        "price": 49.99,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152012/logo27_ovs6ax.webp",
+        "color": "Black",
+        "brand": "Brand B",
+        "description": "A compact and modern table fan that provides efficient cooling with its powerful airflow. Ideal for desks and small spaces, it blends perfectly with contemporary décor."
+    },
+    {
+        "name": "Vage Wall Fan",
+        "price": 75.50,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152013/logo25_e1ale0.webp",
+        "color": "Bronze",
+        "brand": "Brand C",
+        "description": "Bring a touch of nostalgia to your space with this vintage wall fan. Its bronze finish and retro design make it a unique addition to any room and see more."
+    },
+    {
+        "name": "Elant Ceiling Fan",
+        "price": 99.99,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152012/logo26_n8phoz.webp",
+        "color": "White",
+        "brand": "Brand A",
+        "description": "This stylish ceiling fan is designed to enhance the elegance of your room. With a quiet motor and a sleek white finish, it's perfect for any modern home and see more."
+    },
+    {
+        "name": "Modery Table Fan",
+        "price": 49.99,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151910/wa9_sz4mpb.webp",
+        "color": "Black",
+        "brand": "Brand B",
+        "description": "A compact and modern table fan that provides efficient cooling with its powerful airflow. Ideal for desks and small spaces, it blends perfectly with contemporary décor."
+    },
+    {
+        "name": "Vinte Wall Fan",
+        "price": 75.50,
+        "imageUrl": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152038/logo1_p6mp1b.webp",
+        "color": "Bronze",
+        "brand": "Brand C",
+        "description": "Bring a touch of nostalgia to your space with this vintage wall fan. Its bronze finish and retro design make it a unique addition to any room and see more."
+    }
+]

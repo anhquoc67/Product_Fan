@@ -1,0 +1,165 @@
+[
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151996/acc4_hdokud.webp",
+        "name": "Accessories Model A",
+        "price": "$5",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.8"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151987/acc15_tfyl2p.jpg",
+        "name": "Accessories Model B",
+        "price": "$7",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.8"
+    },
+
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151993/acc7_uc6ntz.webp",
+        "name": "Accessories Model B",
+        "price": "$5",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.8"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151984/acc18_zqjtku.jpg",
+        "name": "Accessories Model B",
+        "price": "$7",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.9"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152000/acc2_rwfq62.webp",
+        "name": "Accessories Model B",
+        "price": "$5",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.7"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151989/acc13_jsqwq5.jpg",
+        "name": "Accessories Model C",
+        "price": "$6",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.9"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151985/acc17_n0a89t.jpg",
+        "name": "Accessories Model A",
+        "price": "$5",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.8"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152000/acc1_kdyfxg.webp",
+        "name": "Accessories Model A",
+        "price": "$5",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.8"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151986/acc16_e9edsh.jpg",
+        "name": "Accessories Model C",
+        "price": "$6",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.9"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151996/acc5_uhuppy.webp",
+        "name": "Accessories Model B",
+        "price": "$7",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.7"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151994/acc6_cx2sxp.webp",
+        "name": "Accessories Model C",
+        "price": "$6",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.9"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151993/acc8_zkpn3p.webp",
+        "name": "Accessories Model A",
+        "price": "$5",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.9"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151989/acc12_e1wmkp.jpg",
+        "name": "Accessories Model B",
+        "price": "$7",
+        "color": "Black",
+        "brand": "CoolAir",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.9"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151982/acc21_vp5gsj.jpg",
+        "name": "Accessories Model C",
+        "price": "$6",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.9"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151999/acc3_u90tne.webp",
+        "name": "Accessories Model C",
+        "price": "$6",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.9"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151992/acc9_ff0ypk.webp",
+        "name": "Accessories Model C",
+        "price": "$5",
+        "color": "Silver",
+        "brand": "AirFlow",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.8"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151988/acc14_ljdm5h.jpg",
+        "name": "Accessories Model A",
+        "price": "$5",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.8"
+    },
+    {
+        "image": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151983/acc20_hpvveb.jpg",
+        "name": "Accessories Model A",
+        "price": "$5",
+        "color": "White",
+        "brand": "FanMaster",
+        "description": "The accessories are manufactured and inspected with great care, providing peace of mind for customers.",
+        "rating": "4.8"
+    }
+]

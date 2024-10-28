@@ -1,0 +1,42 @@
+/* BestSell.css */
+
+.best-sell {
+  text-align: center; /* Canh giữa nội dung */
+  margin: 20px; /* Thêm khoảng cách xung quanh */
+}
+
+.image-gallery {
+  display: flex; /* Sử dụng flexbox để hiển thị hình ảnh trong hàng */
+  justify-content: center; /* Canh giữa hình ảnh */
+  flex-wrap: wrap; /* Cho phép hình ảnh xuống hàng nếu không đủ chỗ */
+}
+
+.image-item {
+  position: relative; /* Để sử dụng vị trí tương đối cho overlay */
+  margin: 10px; /* Thêm khoảng cách giữa các hình ảnh */
+}
+
+.img-fluid {
+  width: 100%; /* Đặt chiều rộng hình ảnh */
+  height: auto; /* Tự động điều chỉnh chiều cao */
+  border-radius: 12px; /* Đặt bo góc cho hình ảnh */
+}
+
+.overlay {
+  position: absolute; /* Để overlay nằm trên hình ảnh */
+  top: 10px; /* Cách từ trên xuống 10px */
+  right: 10px; /* Cách từ bên phải vào 10px */
+  background-color: rgba(255, 0, 0, 0.7); /* Màu nền cho overlay */
+  color: white; /* Màu chữ */
+  padding: 5px 10px; /* Khoảng cách giữa chữ và biên */
+  border-radius: 5px; /* Bo góc cho overlay */
+  font-weight: bold; /* Chữ đậm */
+}
+
+.product-name {
+  font-weight: bold; /* Đặt chữ đậm cho tên sản phẩm */
+}
+
+.product-price {
+  color: #666; /* Màu chữ cho giá sản phẩm */
+}

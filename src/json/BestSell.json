@@ -1,0 +1,39 @@
+[
+    {
+      "src": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152038/logo1_p6mp1b.webp",
+      "name": "Ceiling Fan with Modern Design",
+      "price": "$100",
+      "description": "Ceiling fan with modern design."
+    },
+    {
+      "src": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152020/logo17_hg2ojk.webp",
+      "name": "Elegant Wall-Mounted Fan",
+      "price": "$120",
+      "description": "Elegant wall-mounted fan."
+    },
+    {
+      "src": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152015/logo23_o87wuf.webp",
+      "name": "Stylish Table Fan",
+      "price": "$80",
+      "description": "Stylish table fan for home use."
+    },
+    {
+      "src": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152003/logo38_ssswow.webp",
+      "name": "Energy-Efficient Ceiling Fan",
+      "price": "$150",
+      "description": "Energy-efficient ceiling fan."
+    },
+    {
+      "src": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729151946/pe10_asgzna.webp",
+      "name": "Decorative Fan with Light",
+      "price": "$90",
+      "description": "Decorative fan with light."
+    },
+    {
+      "src": "https://res.cloudinary.com/duj4e3i6z/image/upload/v1729152031/logo10_yqxcpo.webp",
+      "name": "Compact Portable Fan",
+      "price": "$50",
+      "description": "Compact and powerful portable fan."
+    }
+  ]
+  

@@ -1,0 +1,257 @@
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.video-frame {
+  margin-bottom: 20px;
+}
+p {
+  color: black;
+}
+
+html {
+  font-size: 16px; /* 1rem = 16px */
+}
+
+h1 {
+  font-size: 2rem; /* 32px */
+}
+
+h2 {
+  font-size: 1.75rem; /* 28px */
+}
+
+h3 {
+  font-size: 1.5rem; /* 24px */
+}
+
+h4 {
+  font-size: 1.25rem; /* 20px */
+}
+
+.App {
+  
+  background-color: lightblue;
+}
+
+.App-Header {
+  background-color: #53284f;
+  min-height: 200vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 5vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+a {
+  color: black;
+}
+
+.list {
+  display: flex;
+  width: 60vw;
+  margin: 0 auto;
+}
+
+.li {
+  flex: 1;
+  text-decoration: none;
+  text-align: left;
+  padding: 1vh;
+
+}
+
+span {
+  font-weight: bold;
+}
+
+.star-rating {
+  display: flex;
+  justify-content: center;
+}
+
+.star {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.star.selected {
+  color: gold;
+}
+
+
+
+.containertable {
+  width: 100%;
+}
+
+.col {
+  width: 100%;
+}
+
+.pict {
+  height: auto;
+  padding: 1vw;
+  object-fit: contain;
+  /* Hoặc contain nếu muốn toàn bộ ảnh nằm gọn trong khung */
+
+}
+.video {
+  height: auto;
+  padding: 1vw;
+  object-fit: contain;
+  /* Hoặc contain nếu muốn toàn bộ ảnh nằm gọn trong khung */
+
+}
+
+
+.top {
+  position: fixed;
+  right: 1vw; /* Khoảng cách từ nút đến mép phải của màn hình */
+  bottom: 1vw;   /* Khoảng cách từ nút đến mép trên của màn hình */
+  padding: 0.5vw;
+  width: fit-content;
+
+  text-align: center;
+  background-color: rgba(252, 252, 100, 0);
+  color: black;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 1000; /* Giúp nút luôn nổi trên các thành phần khác */
+  box-shadow: 1px 1px 3px rgb(41, 26, 212);
+}
+
+
+.top:hover {
+  position: fixed;
+  right: 1vw; /* Khoảng cách từ nút đến mép phải của màn hình */
+  bottom: 1vw;   /* Khoảng cách từ nút đến mép trên của màn hình */
+  padding: 0.5vw;
+  width: fit-content;
+
+  text-align: center;
+  background-color: rgb(42, 28, 113);
+  color: rgb(88, 88, 88);
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 1000; /* Giúp nút luôn nổi trên các thành phần khác */
+  box-shadow: 1px 1px 1px blue;
+}
+
+.font{
+  font-size: 1vw;
+}
+
+.bg-menu{
+  background-color: #ff6347;
+}
+
+.text-menu{
+  color: black;
+  font-size: 1.5rem;
+}
+.nav-item a{
+  color: black;
+}
+.nav-item:hover{
+  background-color: rgb(162, 165, 231);
+  border-radius: 1vw;
+}
+.centered-form {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.card-header{
+  background-color: whitesmoke;
+  color: black;
+}
+b{
+color: blue;  
+}
+h1{
+  color: #ff6347
+}
+.red{
+  color: #ff6347;
+}
+.black{
+  color: black !important;
+}
+
+.gallery1
+{
+  width: 33.33%;
+  padding: 3px;
+
+}
+.gallery2
+{
+  width: 25%;
+  height: 300px;
+  padding: 3px;
+
+}
+
+.gallery3
+{
+  width: 50%;
+  height: 500px;
+  padding: 3px;
+
+}
+
+@media screen and (max-width: 800px){
+  .gallery1, .gallery2, .gallery3
+  {
+    
+  width: 100%;
+  padding: 3px;
+  }  
+}
+
+@media screen and (max-width: 650px){
+  .gallery1, .gallery2, .gallery3
+  {
+    width: 100%;
+    padding: 3px;
+  }
+.search-container {
+    margin: 50px auto;
+    width: 300px;
+}  
+}
+.search-box {
+  display: flex;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+}
+.search-box input {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 5px;
+}
+.search-box button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+}
+.search-box button img {
+  width: 20px;
+  height: 20px;
+}
+

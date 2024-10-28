@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    align-items: stretch;
+    background-color: #f1f1f1;
+}
+
+.container > div {
+    color: black;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
