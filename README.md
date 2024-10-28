@@ -8,9 +8,10 @@ Our group member:
 4. Lâm Nhật Minh - Student1575501
 
 Documents reports:
-Data test:https://github.com/anhquoc67/Product_Fan/tree/main/src/json
-Our project demonstration video:
-To run website, simply click on the following link:https://anhquoc67.github.io/Product_Fan/
+1. Data test:https://github.com/anhquoc67/Product_Fan/tree/main/src/json
+2. Our project demonstration video:
+3.To run website, simply click on the following link:https://anhquoc67.github.io/Product_Fan/
+
 
 1. Clone the repository:
 https://github.com/anhquoc67/Product_Fan/
