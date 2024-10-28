@@ -7,12 +7,12 @@ Our group member:
 3. Nguyễn Tấn Phúc - Student1575540
 4. Lâm Nhật Minh - Student1575501
 
-Documents reports:
-1. Data test:https://github.com/anhquoc67/Product_Fan/tree/main/src/json
-2. Our project demonstration video:
-3.To run website, simply click on the following link:https://anhquoc67.github.io/Product_Fan/
+1.Documents reports:
+2. Data test:https://github.com/anhquoc67/Product_Fan/tree/main/src/json
+3. Our project demonstration video:
+4.To run website, simply click on the following link:https://anhquoc67.github.io/Product_Fan/
 
-
+## Clone the repository
 1. Clone the repository:
 https://github.com/anhquoc67/Product_Fan/
 2. Navigate to the project directory:
